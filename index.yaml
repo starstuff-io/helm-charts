@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  starstuff-site:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-20T18:30:37.736776242Z"
+    description: A Helm chart for Kubernetes
+    digest: 001838f508ff7b10a1295f1334cc16b6fc64c6afca3c4bf1521f8d2bc264ea47
+    name: starstuff-site
+    type: application
+    urls:
+    - https://github.com/starstuff-io/helm-charts/releases/download/starstuff-site-0.1.0/starstuff-site-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-20T18:30:37.487044816Z"
